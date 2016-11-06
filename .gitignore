@@ -1,0 +1,10 @@
+.idea/
+.git/
+#app/
+example-promise.js
+node_modules/
+npm-debug.log
+#package.json
+#public/
+#server.js
+#webpack.config.js
